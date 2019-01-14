@@ -1,4 +1,4 @@
-# Issue when building and loading DI model
+# Issue when building and loading DI model (open62541 v0.3.0)
 
 How to reproduce the error:
 
@@ -7,4 +7,4 @@ How to reproduce the error:
 2. build and run example application  
    /bin/bash build-and-run.sh
 
-The application exits with an error when loading the DI model ([src/main.c] line 22).
+The application exits with an error when loading the DI model ([src/main.c](src/main.c) line 22).
