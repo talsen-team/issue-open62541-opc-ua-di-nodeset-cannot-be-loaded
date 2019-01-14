@@ -4,5 +4,8 @@
 !bash-open62541/generate-di-namespace.sh
 !bash-open62541/generate-di-types.sh
 !open62541
+!src/
+!src/open62541.c
+!src/open62541.h
 !.gitignore
 !.gitmodules
