@@ -1,10 +1,14 @@
 *
 
 !bash-open62541/
+!bash-open62541/build-and-publish-server-app.sh
 !bash-open62541/generate-di-namespace.sh
 !bash-open62541/generate-di-types.sh
+!bash-open62541/start-server-app.sh
 !open62541
 !src/
+!src/main.c
+!src/meson.build
 !src/open62541.c
 !src/open62541.h
 !.gitignore
