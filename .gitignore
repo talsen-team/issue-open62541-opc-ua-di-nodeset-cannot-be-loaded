@@ -13,3 +13,4 @@
 !src/open62541.h
 !.gitignore
 !.gitmodules
+!build-and-run.sh
