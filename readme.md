@@ -1,4 +1,4 @@
-# Issue when building and loading DI model (open62541 v0.3.0)
+# Issue when building and loading DI model (open62541 v0.3.0) - fixed :)
 
 Problem fixed now.  
 Follow the instructions below and open62541 will start and load the DI model:
