@@ -9,8 +9,6 @@
 !src/
 !src/main.c
 !src/meson.build
-!src/open62541.c
-!src/open62541.h
 !.gitignore
 !.gitmodules
 !build-and-run.sh
